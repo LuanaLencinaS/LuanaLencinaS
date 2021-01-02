@@ -38,7 +38,8 @@ Vamos tomar um bom café ☕ e conversar... </p>
     #ex: feat(login): create login page
 
 •chore
-    #para qualquer alteração de arquitetura. Seja alteração do package.json ou algum arquivo de configuração, ou mesmo alteração da organização de pastas/código do projeto
+    #para qualquer alteração de arquitetura. Seja alteração do package.json ou algum arquivo 
+    de configuração, ou mesmo alteração da organização de pastas/código do projeto
     #ex: chore: add build script
 
 •fix(escopo)
@@ -46,11 +47,13 @@ Vamos tomar um bom café ☕ e conversar... </p>
     #ex: fix(login): add type="email" to login form
 
 •refactor(escopo)
-    #usado para indicar que um código sofreu refactoring. Ou seja: o resultado final daquele código refatorado não foi alterado.
+    #usado para indicar que um código sofreu refactoring. Ou seja: o resultado final daquele 
+    código refatorado não foi alterado.
     #ex: refactor(style): use sass mixins to handle darken backgrounds
 
 •docs(escopo)
-    #usado ao adicionar comentários no código, jsdoc, storyboard e tudo que não interfira no código, porém indique o funcionamento do mesmo.
+    #usado ao adicionar comentários no código, jsdoc, storyboard e tudo que não interfira no 
+    código, porém indique o funcionamento do mesmo.
     #ex: docs(login): add jsdoc to functions
 
 •test(escopo)
