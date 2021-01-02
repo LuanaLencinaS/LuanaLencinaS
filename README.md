@@ -16,4 +16,15 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuanaLencinaS&layout=compact&theme=tokyonight)
 
-<p align="center"> dev(a) with 💜</p>
+
+<p align="center"> Precisando de um site ou ferramenta? <br>
+Vamos tomar um bom café ☕ e conversar... </p>
+
+[![Contact WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511958936066)
+[![Contact LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luana-lencina-desenvolvedora/)
+[![Contact Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luhlencina/)
+[![Contact Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](analulencina@hotmail.com)
+[![Contact Teams](https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white)]()
+[![Contact GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LuanaLencinaS/LuanaLencinaS/)
+
+<p align="center"> dev(a) with 💜 </p>
