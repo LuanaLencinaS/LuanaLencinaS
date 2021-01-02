@@ -14,7 +14,7 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LuanaLencinaS&custom_title=Meus%20trabalhos%20no%20Github&show_owner=true&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuanaLencinaS&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuanaLencinaS&layout=compact&theme=tokyonight&custom_title=Tecnologias%20utilizadas%20nos%20projetos)
 
 
 <p align="center"> Precisando de um site ou ferramenta? <br>
