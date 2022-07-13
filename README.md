@@ -84,3 +84,5 @@ Emoji | Code | Commit Type
 [+Projetos](https://github.com/LuanaLencinaS)
 
 <p align="center"> feito com 💜 </p>
+
+![Snake animation](https://github.com/LuanaLencinaS/LuanaLencinaS/blob/output/github-contribution-grid-snake.svg)
